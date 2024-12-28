@@ -1,0 +1,22 @@
+{
+  "name": "autogpt",
+  "version": "1.0.0",
+  "description": "auto gpt for free",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shuoer86/autogpt.git"
+  },
+  "keywords": [
+    "gpt"
+  ],
+  "author": "shuoer86",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shuoer86/autogpt/issues"
+  },
+  "homepage": "https://github.com/shuoer86/autogpt#readme"
+}
